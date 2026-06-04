@@ -6,7 +6,7 @@ VBAエキスパートの学習用に、VBAの知識をまとめました。
 GitHub Wikiを利用しています。
 
 # ライセンス
-このドキュメント（GitHub Wikiを含む）は、[クリエイティブ・コモンズ 表示 4.0 国際 ライセンス (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.ja) の下に提供されています。詳細については [LISENCE file](LISENCE) 
+このドキュメント（GitHub Wikiを含む）は、[クリエイティブ・コモンズ 表示 4.0 国際 ライセンス (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.ja) の下に提供されています。詳細については [LICENSE file](LICENSE) 
 をご覧ください。
 
-This project is licensed under the CC BY 4.0 License, see the [LISENCE file](LISENCE) for details.
+This project is licensed under the CC BY 4.0 License, see the [LICENSE file](LICENSE) for details.
